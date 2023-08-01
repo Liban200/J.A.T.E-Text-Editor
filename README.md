@@ -42,6 +42,9 @@ https://kulail-gang-200-e043f2784a3d.herokuapp.com/
 ## Credits
 - Shihan
 - Tareque
+- https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
+- https://www.youtube.com/watch?v=dap6yIe1uK4
+  
   
 
 
